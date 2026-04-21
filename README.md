@@ -35,17 +35,18 @@ Currently open to backend engineering roles in **Tunisia, Europe, or remote**.
 
 ## 🚀 Featured Projects
 
-### [Patient Management System](https://salma-ghrabi.github.io/project-patients.html)
+### [Retail Multi-Store System — PFE @ PROXIAD](https://salmaghrabi.github.io/project-pfe.html)
+Multi-boutique retail platform built with Hexagonal Architecture and DDD, deployed on Kubernetes.  
+`Java 21` `Spring Boot` `Angular 18` `Keycloak` `Kubernetes` `GitLab CI/CD`
+
+### [Patient Management System](https://salmaghrabi.github.io/project-patients.html)
 Distributed backend system handling real-time billing and inventory flows at high availability.  
 `Java 21` `Spring Boot` `Apache Kafka` `PostgreSQL` `Docker` `AWS`
 
-### [Book Sharing Platform](https://salma-ghrabi.github.io/project-books.html)
+### [Book Sharing Platform](https://salmaghrabi.github.io/project-books.html)
 Community platform with secure OAuth2 auth, email validation, and automated borrowing workflows.  
 `Java 17` `Spring Boot` `Angular` `Keycloak` `Docker` `GitHub Actions`
 
-### [Retail Multi-Store System — PFE @ PROXIAD](https://salma-ghrabi.github.io/project-pfe.html)
-Multi-boutique retail platform built with Hexagonal Architecture and DDD, deployed on Kubernetes.  
-`Java 21` `Spring Boot` `Angular 18` `Keycloak` `Kubernetes` `GitLab CI/CD`
 
 ---
 
