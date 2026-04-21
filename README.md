@@ -6,7 +6,7 @@
 **ENSI Graduate 2025 · Tunisia**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-ghrabi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://salmaghrabi.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://salma-ghrabi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:salma.ghrabi@ensi-uma.tn)
 
 </div>
@@ -35,15 +35,15 @@ Currently open to backend engineering roles in **Tunisia, Europe, or remote**.
 
 ## 🚀 Featured Projects
 
-### [Retail Multi-Store System — PFE @ PROXIAD](https://salmaghrabi.github.io/project-pfe.html)
+### [Retail Multi-Store System — PFE @ PROXIAD](https://salma-ghrabi.vercel.app/project-pfe.html)
 Multi-boutique retail platform built with Hexagonal Architecture and DDD, deployed on Kubernetes.  
 `Java 21` `Spring Boot` `Angular 18` `Keycloak` `Kubernetes` `GitLab CI/CD`
 
-### [Patient Management System](https://salmaghrabi.github.io/project-patients.html)
+### [Patient Management System](https://salma-ghrabi.vercel.app/project-patients.html)
 Distributed backend system handling real-time billing and inventory flows at high availability.  
 `Java 21` `Spring Boot` `Apache Kafka` `PostgreSQL` `Docker` `AWS`
 
-### [Book Sharing Platform](https://salmaghrabi.github.io/project-books.html)
+### [Book Sharing Platform](https://salma-ghrabi.vercel.app/project-books.html)
 Community platform with secure OAuth2 auth, email validation, and automated borrowing workflows.  
 `Java 17` `Spring Boot` `Angular` `Keycloak` `Docker` `GitHub Actions`
 
