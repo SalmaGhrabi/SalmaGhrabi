@@ -24,6 +24,7 @@ Currently open to backend engineering roles in **Tunisia, Europe, or remote**.
 | Layer | Technologies |
 |---|---|
 | **Backend** | Java 21 · Spring Boot · Hibernate |
+| **Frontend** | Angular 18 . TypeScript . ReactJS |
 | **Databases** | PostgreSQL · MySQL · Apache Kafka |
 | **DevOps & Cloud** | Docker · Kubernetes · AWS · GitLab CI/CD · GitHub Actions |
 | **Architecture** | Microservices · DDD · Hexagonal Architecture |
