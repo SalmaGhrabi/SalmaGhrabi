@@ -15,7 +15,7 @@
 
 Computer Science Engineer graduated from **ENSI** — Tunisia's top engineering school. I specialize in designing **robust Java backend systems**: microservices, distributed architectures, and clean domain-driven code.
 
-Currently open to backend engineering roles in **Tunisia, Europe, or remote**.
+Currently open to backend & full-stack engineering roles in **Tunisia, Europe, or remote**.
 
 ---
 
@@ -23,8 +23,8 @@ Currently open to backend engineering roles in **Tunisia, Europe, or remote**.
 
 | Layer | Technologies |
 |---|---|
-| **Backend** | Java 21 · Spring Boot · Hibernate |
-| **Frontend** | Angular 18 . TypeScript . ReactJS |
+| **Backend** | Java 21 · Spring Boot · Hibernate . NodeJS|
+| **Frontend** | Angular 18 . TypeScript . JavaScript . ReactJS |
 | **Databases** | PostgreSQL · MySQL · Apache Kafka |
 | **DevOps & Cloud** | Docker · Kubernetes · AWS · GitLab CI/CD · GitHub Actions |
 | **Architecture** | Microservices · DDD · Hexagonal Architecture |
