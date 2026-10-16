@@ -44,7 +44,7 @@ Multi-boutique retail platform built with Hexagonal Architecture and DDD, deploy
 Distributed backend system handling real-time billing and inventory flows at high availability.  
 `Java 21` `Spring Boot` `Apache Kafka` `PostgreSQL` `Docker` `AWS`
 
-### [Book Sharing Platform](https://salma-ghrabi.vercel.app/project-books.html)
+### [Book Sharing Platform(Folio)](https://salma-ghrabi.vercel.app/project-books.html)
 Community platform with secure OAuth2 auth, email validation, and automated borrowing workflows.  
 `Java 17` `Spring Boot` `Angular` `Keycloak` `Docker` `GitHub Actions`
 
