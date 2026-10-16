@@ -46,7 +46,7 @@ Distributed backend system handling real-time billing and inventory flows at hig
 
 ### [Book Sharing Platform(Folio)](https://salma-ghrabi.vercel.app/project-books.html)
 Community platform with secure OAuth2 auth, email validation, and automated borrowing workflows.  
-`Java 17` `Spring Boot` `Angular` `Keycloak` `Docker` `GitHub Actions`
+`Java 17` `Spring Boot` `Angular` `PostgreSQL` `Docker` 
 
 
 ---
